@@ -20,7 +20,7 @@ public class Quiz1 {
             totalD += total *  porcentaje;
             
         }
-        JOptionPane.showConfirmDialog(null, "el monto total a pagar en haciendo es: " + totalD);
+        JOptionPane.showConfirmDialog(null, "La profesor Walter White deberá pagar a hacienda el monto de: " + totalD);
         }
 
     
